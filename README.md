@@ -8,7 +8,7 @@ A example of how to build a classifier using GPT
 
 - Data: subset of the data to run the script 
 
-- Examples: Two csvs, which were used to feed the classifier the examples
+- Examples: Two csvs, which were used to feed the classifier the examples for few shot learning
 
 - Output: The output from our classification task
 
